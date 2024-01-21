@@ -1,8 +1,7 @@
 
 ![](./logo.jpeg)
 
-markdown
-Copy code
+
 # k3s Cluster Setup with Cilium
 
 This script automates the process of setting up a lightweight Kubernetes (k3s) cluster with Cilium as the CNI (Container Network Interface). It is designed to run on macOS systems using Multipass for virtualization.
