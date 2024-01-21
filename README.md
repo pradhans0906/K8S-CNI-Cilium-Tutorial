@@ -1,7 +1,7 @@
 
 # Cilium Intro
 
-![](./logo.png)
+![][./download.jpg]
 
 You can find the blog here:
 
@@ -18,3 +18,4 @@ solution
 As a Kubernetes CNI plug, Cilium was designed for a large-scale and highly dynamic container environment from the beginning, and brought the network security management function of API level perception. By using a new technology based on Linux's internal nuclear characteristics-BPF, Provides service/pod/container as a logo instead of a traditional IP address to define and strengthen the network layer and application layer between the container and Pod strategy。Therefore, Cilium not only simplifies the application of security strategies in a highly dynamic environment, but also provides the third and fourth layer isolation functions of traditional networks, and provides stronger security based on the isolation control on the http layer isolation。
 
 In addition, because BPF can dynamically insert programs that control the Linux system, a powerful security visualization function is achieved, and these changes do not require the application code to be updated or the application service itself can take effect, because BPF is running in the core of the system。
+
