@@ -1,7 +1,7 @@
 
 # Cilium Intro
 
-![][./download.jpg]
+![](./logo.jpeg)
 
 You can find the blog here:
 
