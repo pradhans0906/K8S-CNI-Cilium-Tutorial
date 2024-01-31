@@ -25,12 +25,12 @@ Before running the script, ensure Homebrew and Multipass are installed on your s
 ```sh
 brew install --cask multipass
 
-3. Download the script setup-k3s-cilium.sh from the repository.
+3. Download the script k3s-cilium.sh from the repository.
 
 ```sh
 4. Make the script executable:
 
-    chmod +x setup-k3s-cilium.sh
+    chmod +x k3s-cilium.sh
 
 5. Run the script:
 
